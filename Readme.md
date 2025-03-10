@@ -13,7 +13,7 @@ Ensure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/url-shortener.git
+   git clone https://github.com/realkabeerahmad/url-shortener.git
    cd url-shortener
    ```
 2. Install dependencies:
